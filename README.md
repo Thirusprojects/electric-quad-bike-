@@ -64,3 +64,9 @@ This description explains the system at a functional level; it is not a verified
 This repository documents my participation in a shared campus learning project. It does not claim sole design ownership, team leadership, custom controller programming, or BMS design and installation.
 
 Testing described here consists of basic functional checks and a driving demonstration. No measured range, top speed, efficiency, or formal safety-validation results are claimed.
+
+## Driving demonstration
+
+[Watch the quad bike driving demonstration](media/quad-bike-demo.mp4)
+
+The approximately 16-second clip shows a basic indoor driving demonstration of the team-built electric quad bike. It documents vehicle movement, not measured performance or formal safety validation.
